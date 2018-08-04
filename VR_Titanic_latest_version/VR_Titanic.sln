@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR_Titanic.Plugins", "VR_Titanic.Plugins.csproj", "{2580EDE5-C0C0-1D08-864F-B57B55137452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR_Titanic", "VR_Titanic.csproj", "{31AACCEF-4C63-D276-59E7-0DE92EEB0245}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR_Titanic.Editor.Plugins", "VR_Titanic.Editor.Plugins.csproj", "{19B3EE79-6757-45D3-EC97-B5530BC57B38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR_Titanic.Editor", "VR_Titanic.Editor.csproj", "{F2C41100-FE3A-C67D-76D8-8E5D0AA05D5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2580EDE5-C0C0-1D08-864F-B57B55137452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2580EDE5-C0C0-1D08-864F-B57B55137452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2580EDE5-C0C0-1D08-864F-B57B55137452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2580EDE5-C0C0-1D08-864F-B57B55137452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31AACCEF-4C63-D276-59E7-0DE92EEB0245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31AACCEF-4C63-D276-59E7-0DE92EEB0245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31AACCEF-4C63-D276-59E7-0DE92EEB0245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31AACCEF-4C63-D276-59E7-0DE92EEB0245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19B3EE79-6757-45D3-EC97-B5530BC57B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B3EE79-6757-45D3-EC97-B5530BC57B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B3EE79-6757-45D3-EC97-B5530BC57B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B3EE79-6757-45D3-EC97-B5530BC57B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2C41100-FE3A-C67D-76D8-8E5D0AA05D5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C41100-FE3A-C67D-76D8-8E5D0AA05D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C41100-FE3A-C67D-76D8-8E5D0AA05D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C41100-FE3A-C67D-76D8-8E5D0AA05D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

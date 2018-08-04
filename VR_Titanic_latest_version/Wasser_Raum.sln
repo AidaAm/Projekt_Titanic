@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wasser_Raum", "Wasser_Raum.csproj", "{9A6E99C9-9A73-8F52-E4A3-08B3CD293B73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wasser_Raum.Plugins", "Wasser_Raum.Plugins.csproj", "{F1850F45-E27F-9803-8195-EA487B6688A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wasser_Raum.Editor.Plugins", "Wasser_Raum.Editor.Plugins.csproj", "{A155C341-7C85-49F0-14DB-AAB6E0F9F768}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A6E99C9-9A73-8F52-E4A3-08B3CD293B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A6E99C9-9A73-8F52-E4A3-08B3CD293B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A6E99C9-9A73-8F52-E4A3-08B3CD293B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A6E99C9-9A73-8F52-E4A3-08B3CD293B73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1850F45-E27F-9803-8195-EA487B6688A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1850F45-E27F-9803-8195-EA487B6688A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1850F45-E27F-9803-8195-EA487B6688A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1850F45-E27F-9803-8195-EA487B6688A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A155C341-7C85-49F0-14DB-AAB6E0F9F768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A155C341-7C85-49F0-14DB-AAB6E0F9F768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A155C341-7C85-49F0-14DB-AAB6E0F9F768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A155C341-7C85-49F0-14DB-AAB6E0F9F768}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
